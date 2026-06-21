@@ -1,0 +1,4 @@
+Coloque aqui o seu arquivo de vídeo vertical (formato retrato, 1080x1920)
+com o nome: studio-tour.mp4
+
+Esse é o vídeo que aparece na seção "Por dentro do estúdio" do site.
